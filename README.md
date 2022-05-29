@@ -1,7 +1,7 @@
 # 30-days-of-JS
 This is a repository for my 30 days of JavaScript challenge from javascript30.com
 
-:card_index_dividers: 10 days discovering JS
+30 days discovering JS
 
 Personal challenge to post every day a note about JS.
 
