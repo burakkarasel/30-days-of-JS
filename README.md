@@ -1,5 +1,5 @@
 # 30-days-of-JS
-This is a repository for my 30 days of JavaScript challenge from javascript30.com
+This is a repository for my 30 days of JavaScript challenge from [here](https://javascript30.com/)
 
 30 days discovering JS
 
